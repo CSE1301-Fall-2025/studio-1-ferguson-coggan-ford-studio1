@@ -23,5 +23,3 @@ public class HiFour {
 		System.out.print("Hi "+s0+", "+s1+", "+s2+", and "+s3+". How are you all doing?");
 	}
 }
-
-
