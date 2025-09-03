@@ -10,6 +10,6 @@ public class Average {
         System.out.print("Enter value for N2: ");
         double n2 = in.nextDouble();
         double n3 = (n1 + n2) / 2;
-        System.out.print("Average of "+n1+" and "+n2+"is"+n3);
+        System.out.print("Average of "+n1+" and "+n2+" is "+n3);
 }
 }
